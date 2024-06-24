@@ -37,10 +37,10 @@ app.use(function (err, req, res, next) {
 // red','green','yellow','blue','magenta','cyan','white']
 app.listen(PORT, () => {
     console.log(color("<=====[ INFORMASI PENTING ]=====>\n",'yellow'))
-    console.log(color("> Rest api ini dibuat oleh ``DhaniOfficiall``",'white'))
-    console.log(color("> Buy rest api no pasaran bisa beli di DhaniOfficiall,",'white'))
-    console.log(color("> Whatsapp :","red"), color("\n › no : 62851-7421-7900\n › link : https://wa.me/6285174217900",'white'))
-    console.log(color("> Instagram :","red"), color("\n › name : @dhaniofficiall_\n › link : https://instagram.com/dhaniofficiall_",'white'))
+    console.log(color("> Rest api ini dibuat oleh ``YUDAMODS``",'white'))
+    console.log(color("> Buy rest api no pasaran bisa beli di YUDAMODS,",'white'))
+    console.log(color("> Whatsapp :","red"), color("\n › no : 62831-5330-5709\n › link : https://wa.me/6283153305709",'white'))
+    console.log(color("> Instagram :","red"), color("\n › name : @yudamods123_\n › link : https://instagram.com/yudamods124_",'white'))
     console.log(color("\n<=====[ AKHIR INFORMASI PENTING ]=====>\n",'yellow'))
     console.log(color("<=====[ START HOSTING ]=====>",'red'))
     console.log(color("Server running on port " + PORT,'white'))
