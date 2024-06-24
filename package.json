@@ -1,7 +1,7 @@
 {
-  "name": "By-DhaniOfficiall",
+  "name": "By-YUDAMODS",
   "version": "2.0.0",
-  "description": "Created By DhaniOfficiall.",
+  "description": "Created By YUDAMODS.",
   "main": "node index.js",
   "scripts": {
     "start": "node index.js"
