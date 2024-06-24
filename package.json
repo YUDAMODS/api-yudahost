@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BOTZ-DHANI/api-dhani-2023.git"
+    "url": "git+https://github.com/YUDAMODS/api-yudahost.git"
   },
   "keywords": [
     "restapi",
@@ -17,9 +17,9 @@
   "author": "DhaniOfficiall",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BOTZ-DHANI/api-dhani-2023/issues"
+    "url": "https://github.com/YUDAMODS/api-yudahost/issues"
   },
-  "homepage": "https://github.com/BOTZ-DHANI/api-dhani-2023#readme",
+  "homepage": "https://github.com/YUDAMODS/api-yudahost#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "cheerio": "^1.0.0-rc.11",
