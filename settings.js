@@ -5,7 +5,7 @@ global.creator = 'YUDAMODS'
 global.listkey = ["apikeynya","turusek"]
 
 //isi agar fitur fitur bisa di gunakan.
-global.lolkey = 'IchanZx' // Dapatkan di https://api.lolhuman.xyz
+global.lolkey = '76fffde439b25dbb5cf17eef' // Dapatkan di https://api.lolhuman.xyz
 global.botkey = 'Admin' // Dapatkan di https://api.botcahx.biz.id
 
 global.loghandler = {
