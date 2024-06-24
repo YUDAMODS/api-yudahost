@@ -1,7 +1,7 @@
 // YTTA
 
 //settings
-global.creator = 'DhaniOfficiall'
+global.creator = 'YUDAMODS'
 global.listkey = ["apikeynya","turusek"]
 
 //isi agar fitur fitur bisa di gunakan.
